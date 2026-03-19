@@ -98,6 +98,7 @@ CLAP v1.0 Metrics(NOTICE: This were all recorded using passwords that were not i
 -   Partial match / fuzzy detection\
 -   API integration (HaveIBeenPwned-style)\
 -   UI animations & themes\
+-   Performance Upgrades(optimized wordlists and fine tuning)
 -   Export scan reports
 
 ------------------------------------------------------------------------
