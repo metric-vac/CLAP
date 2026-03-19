@@ -62,6 +62,15 @@ After that, all scans are **offline and fast**.
 
 ------------------------------------------------------------------------
 
+## PERFORMANCE
+
+CLAP v1.0 Metrics(NOTICE: This were all recorded using passwords that were not in the wordlist, so performance may vary by the password inputed)
+
+-  Uses about 0.7GB(700MB) to scan through the wordlist
+-  Takes approximatly 1:05 minutes to go through the whole wordlist
+
+------------------------------------------------------------------------
+
 ## ⚙️ How It Works
 
 1.  Takes user input password\
